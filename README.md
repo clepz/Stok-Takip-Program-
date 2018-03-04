@@ -3,4 +3,5 @@
 
 
 Java ile yaptığım ilk büyük program. Linux ortamında geliştirilmiştir. Mysql veri tabanı kullanılmıştır.
-1 hafta gibi bir sürede program oluşmuş sonraki haftalarda görsellik ve geliştirmelere önem verilmiştir.
+Local host ta çalışılmıştır. Gerekli bilgiler yukarıdaki 'Proje Raporu' ve 'Proje Slaytı' dosyalarında anlatılmıştır.
+Programın çalışır halindeki görseller ise yukarıdaki 'Resimler' adlı dosyada mevcuttur.
